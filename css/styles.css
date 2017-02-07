@@ -1,0 +1,25 @@
+#initially-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #477255;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.darker-background {
+  background-color: #575857;
+}
+
+.og-background {
+  background-color: #FFFFFF;
+}
+
+.box {
+  border-style: solid;
+  background-color: #FFFF91;
+}
